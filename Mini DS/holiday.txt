@@ -1,0 +1,17 @@
+Date	Weekday	Note	Holiday
+"Jan 01, 2022"	Saturday	Public Holiday	New Year's Day
+"Feb 01, 2022"	Tuesday	Public Holiday	Chinese New Year
+"Feb 28, 2022"	Monday	Public Holiday	Isra and Mi'raj
+"Mar 03, 2022"	Thursday	Public Holiday	Nyepi
+"Apr 15, 2022"	Friday	Public Holiday	Good Friday
+"May 01, 2022"	Sunday	Public Holiday	Labor Day
+"May 02, 2022"	Monday	Public Holiday	Eid al-Fitr
+"May 03, 2022"	Tuesday	Public Holiday	Eid al-Fitr Holiday
+"May 16, 2022"	Monday	Public Holiday	Buddha Day
+"May 26, 2022"	Thursday	Public Holiday	Ascension Day
+"Jun 01, 2022"	Wednesday	Public Holiday	Pancasila Day
+"Jul 09, 2022"	Saturday	Public Holiday	Eid al-Adha
+"Jul 30, 2022"	Saturday	Public Holiday	Islamic New Year
+"Aug 17, 2022"	Wednesday	Public Holiday	Independence Day
+"Oct 08, 2022"	Saturday	Public Holiday	Prophet's Birthday
+"Dec 25, 2022"	Sunday	Public Holiday	Christmas Day
